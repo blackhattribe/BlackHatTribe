@@ -36,22 +36,29 @@ blackhat@tribe:~$ ./join   --network  --collaborate   --hacktheplanet
 
 ### 📡 Social Network
 
-Youtube → https://www.youtube.com/@BlackHatTribe
-Pinterest → http://www.pinterest.com/blackhattribe
+---
 
-Instagram → https://www.instagram.com/blackhattribe/
-Github → https://github.com/blackhattribe
+### 🧠 Network Access Portal
 
-TikTok → https://www.tiktok.com/@blackhattribe
-Twitch → https://www.twitch.tv/blackhattribe
+<div align="center">
+  
+  🔗 **Connect with the Black Hat Tribe across the Grid**
 
-SoundCloud → https://soundcloud.com/blackhattribe
-Linktree → https://linktr.ee/blackhattribe
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BlackHatTribe)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackhattribe/)
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackhattribe)
+  [![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@blackhattribe)
+  [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](http://www.pinterest.com/blackhattribe)
+  [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/blackhattribe)
+  [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF7700?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/blackhattribe)
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cginrbjo3yqvljznqjn7kmdjvi)
+  [![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blackhattribe)
+  [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/blackhattribe)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
+  
+</div>
 
-Spotify → https://open.spotify.com/user/31cginrbjo3yqvljznqjn7kmdjvi
-Tumblr → https://www.tumblr.com/blackhattribe
 
-Discord → https://discord.gg/f4SKb6Ez
 
 
 ---
