@@ -78,6 +78,7 @@ We welcome all cybersecurity enthusiasts, pen-testers, and devs!
 Fork, clone, and drop your commits — every contribution counts.
 
 git clone https://github.com/blackhattribe/blackhattribe.git
+
 cd blackhattribe
 
 
@@ -86,7 +87,7 @@ cd blackhattribe
 ### 📧 Contact
 
 Reach out via:  
-[Instagram](https://www.instagram.com/blackhattribe/) • [GitHub](https://github.com/blackhattribe) • [Discord](https://discord.gg/YOUR_INVITE_CODE)
+[Instagram](https://www.instagram.com/blackhattribe/) • [GitHub](https://github.com/blackhattribe) • [Discord](https://discord.gg//f4SKb6Ez)
 
 ---
 
