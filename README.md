@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/blackhattribe/blackhattribe?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/blackhattribe/blackhattribe?style=flat-square)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=blackhattribe.blackhattribe)
-[![Discord](https://dcbadge.limes.pink/api/server/YOUR_INVITE_CODE)](https://discord.gg/YOUR_INVITE_CODE)
+[![Discord](https://dcbadge.limes.pink/api/server//f4SKb6Ez)](https://discord.gg//f4SKb6Ez)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-000000?style=flat-square&logo=matrix&logoColor=white)
