@@ -38,14 +38,19 @@ blackhat@tribe:~$ ./join   --network  --collaborate   --hacktheplanet
 
 Youtube → https://www.youtube.com/@BlackHatTribe
 Pinterest → http://www.pinterest.com/blackhattribe
+
 Instagram → https://www.instagram.com/blackhattribe/
 Github → https://github.com/blackhattribe
+
 TikTok → https://www.tiktok.com/@blackhattribe
 Twitch → https://www.twitch.tv/blackhattribe
+
 SoundCloud → https://soundcloud.com/blackhattribe
 Linktree → https://linktr.ee/blackhattribe
+
 Spotify → https://open.spotify.com/user/31cginrbjo3yqvljznqjn7kmdjvi
 Tumblr → https://www.tumblr.com/blackhattribe
+
 Discord → https://discord.gg/f4SKb6Ez
 
 
