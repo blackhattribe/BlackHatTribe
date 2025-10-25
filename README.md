@@ -13,7 +13,8 @@
 
 ### 🕶️ About Black Hat Tribe
 
-Welcome to **Black Hat Tribe** — a network of coders, ethical hackers, and creators united under one digital banner.  
+Welcome to **Black Hat Tribe** 
+— a network of coders, ethical hackers, and creators united under one digital banner.  
 We code in the dark, automate the future, and secure the web.
 
 ---
@@ -29,7 +30,7 @@ We code in the dark, automate the future, and secure the web.
 
 ### 🧩 Terminal Vibes
 
-blackhat@tribe:~$ ./join --network --collaborate --hacktheplanet
+blackhat@tribe:~$ ./join   --network  --collaborate   --hacktheplanet
 
 
 ---
